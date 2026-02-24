@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mufeez Yaqub – Lebenslauf</title>
+</head>
+
+<body style="font-family: Arial; background-color: #f5f7fa;">
+
+<img src="Bild.jpeg" alt="Not Found" width="200" height="300" 
+style="float:right; margin:20px; border:3px solid #2c3e50;">
+
+<h1 style="color:#2c3e50;">Persönliche Daten 😂</h1>
+<p style="color:#34495e;">
+Name: <span style="color:#2980b9;">Mufeez Yaqub</span> <br>
+Geburtsdatum: 21.11.2005 <br>
+Adresse: Wien, Österreich <br>
+Telefon: +43 123456789 <br>
+E-Mail: mufeez@htlw.at.com
+<br><br></p>
+
+<hr>
+
+<h2 style="color:#8e44ad;">Ausbildung</h2>
+<p style="color:#2c3e50;">
+2020 – 2021: Polytechnische Schule <br>
+Wintzingerodestr. 1 <br><br>
+Seit 2022: 
+<a href="https://www.htlwien10.at/edu/" style="color:#2980b9; font-weight:bold;">
+HTL Wien 10 – Mechatronik 😂
+</a> <br>
+Schwerpunkt: Mechatronik <br>
+Geplanter Abschluss: 2027
+</p>
+
+<hr>
+
+<h2 style="color:#16a085;">Praktische Erfahrungen</h2>
+<p style="color:#2c3e50;">
+Werkstättenunterricht HTL: <br>
+Montagearbeiten <br>
+Elektromontage und Verdrahtung <br>
+3D-Druck und CAD-Grundlagen
+</p>
+
+<hr>
+
+<h2 style="color:#d35400;">Kenntnisse & Fähigkeiten</h2>
+<p style="color:#2c3e50;">
+Elektrotechnik Grundlagen <br>
+Mechanische Montage <br>
+Technisches Zeichnen <br>
+Teamarbeit <br>
+Zuverlässigkeit und Lernbereitschaft 😂
+</p>
+
+<hr>
+
+<h2 style="color:#27ae60;">Sprachen</h2>
+<p style="color:#2c3e50;">
+Deutsch: Gut <br>
+Englisch: Sehr gut <br>
+Urdu: Muttersprache
+</p>
+
+<hr>
+
+<h2 style="color:#c0392b;">Hobbys & Interessen</h2>
+<p style="color:#2c3e50;">
+Technik & Elektronik <br>
+Schach <br>
+Fitness <br>
+3D-Druck 😂
+</p>
+
+<hr>
+
+<h3 style="color:#7f8c8d;">Impressum</h3>
+<p style="color:#2c3e50;">
+UID: 123456 <br>
+Wohnort: Wien <br>
+E-Mail: mufeez@htlw.at.com
+</p>
+
+</body>
+</html>
